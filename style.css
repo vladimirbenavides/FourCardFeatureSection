@@ -144,7 +144,7 @@ header p{
 }
 
 /*1175*/
-@media only screen and (min-width:780px){
+@media only screen and (min-width:1175px){
 
     .cardscontainer{
         max-width: 1200px;
